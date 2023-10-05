@@ -1,2 +1,3 @@
 # Engtrakr
-Software Dev Hub
+Software Development Hub
+Engineer Tracking Software
